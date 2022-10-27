@@ -2,7 +2,13 @@
 
 I am aspiring front end developer, currently looking for my first full-developer job. Every day I challenge myself to learn something new. And I am never alone - always with the company of my two corgis.
 
-![excitedcorgi](https://media.tenor.co/images/6c6ca2677c3770107bd207f2c1956144/raw)
+<p align="center" width="100%"><img src="https://media.tenor.co/images/6c6ca2677c3770107bd207f2c1956144/raw" alt="Excited corgi gif" align="center" width="20%"/></p>
+
+<p align="center"  width="100%" >
+  <a href="https://github.com/bhszewczyk/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhszewczyk&layout=compact&theme=tokyonight" />
+  </a>
+</p>
 
 
 ```yaml
