@@ -1,6 +1,6 @@
 ## Hello Everyone!
 
-I am an aspiring frontend developer, currently looking for my first full-developer job. Every day I challenge myself to learn something new. For the past 2 years I was working in a company where I was implementing JS to make web forms responsive and user friendly. After work I was spending my time exploring the JS world so now I think I am ready! And I am never alone - always with the company of my two corgis.
+I am an aspiring frontend developer, currently looking for my first full-developer job. Every day I challenge myself to learn something new. For the past 3 years I was working in a company where one of my resposibilities was implementing JS to make web forms responsive and user friendly. After work I was spending my time exploring the JS world so now I think I am ready! And I am never alone - always with the company of my two corgis.
 
 <p align="center" width="100%"><img src="https://media.tenor.co/images/6c6ca2677c3770107bd207f2c1956144/raw" alt="Excited corgi gif" align="center" width="20%"/></p>
 
