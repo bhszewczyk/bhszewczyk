@@ -25,7 +25,8 @@ const aboutMe = {
     [
       'React', 
       'node.js', 
-      'express'
+      'express',
+      'TypeScript'
     ],
   programing: 
     [
@@ -33,8 +34,7 @@ const aboutMe = {
       'HTML', 
       'CSS', 
       'Sass', 
-      'React', 
-      'TypeScript'
+      'React'
     ],
   languages: 
     [
