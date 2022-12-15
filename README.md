@@ -21,20 +21,19 @@ const aboutMe = {
       'Process Improvement', 
       'Providing Training'
     ],
-  learning: 
-    [
-      'React', 
-      'node.js', 
-      'express',
-      'TypeScript'
-    ],
   programing: 
-    [
+    [ 
       'JavaScript', 
       'HTML', 
       'CSS', 
       'Sass', 
       'React'
+    ],
+  learning: 
+    [      
+      'node.js', 
+      'express',
+      'TypeScript'
     ],
   languages: 
     [
