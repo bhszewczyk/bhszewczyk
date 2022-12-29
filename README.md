@@ -6,10 +6,9 @@ I am an aspiring frontend developer, currently looking for my first full-develop
 
 <p align="center"  width="100%" >
   <a href="https://github.com/bhszewczyk/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhszewczyk&layout=compact&theme=tokyonight" />
-  </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhszewczyk&layout=compact&theme=tokyonight&langs_count=8" />
+  </a>  
 </p>
-
 
 ```yaml
 const aboutMe = {
