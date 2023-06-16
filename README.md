@@ -4,11 +4,11 @@ I am a junior frontend developer. Every day I challenge myself to learn somethin
 
 <p align="center" width="100%"><img src="https://media.tenor.co/images/6c6ca2677c3770107bd207f2c1956144/raw" alt="Excited corgi" align="center" width="20%"/></p>
 
-<p align="center"  width="100%" >
-  <a href="https://github.com/bhszewczyk/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhszewczyk&layout=compact&theme=tokyonight&langs_count=8" />
-  </a>  
-</p>
+<!--<p align="center"  width="100%" >
+<a href="https://github.com/bhszewczyk/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhszewczyk&layout=compact&theme=tokyonight&langs_count=8" />
+</a>  
+</p>-->
 
 ```yaml
 const aboutMe = {
