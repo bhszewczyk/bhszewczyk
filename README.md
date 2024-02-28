@@ -16,13 +16,15 @@ const aboutMe = {
   lastName: 'Darowska',
   skills: 
     [
-      'Web Development', 
-      'Process Improvement', 
-      'Providing Training'
+      'Web development', 
+      'Process improvement', 
+      'Providing training',
+      'Team collaboration'
     ],
   programing: 
     [ 
-      'JavaScript', 
+      'JavaScript',
+      'TypeScript',
       'HTML', 
       'CSS', 
       'Sass', 
@@ -32,7 +34,8 @@ const aboutMe = {
     [      
       'node.js', 
       'express',
-      'TypeScript'
+      'nestjs',
+      'java'
     ],
   languages: 
     [
