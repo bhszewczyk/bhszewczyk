@@ -16,7 +16,8 @@ const aboutMe = {
   lastName: 'Darowska',
   skills: 
     [
-      'Web development', 
+      'Web development',
+      'Automation', 
       'Process improvement', 
       'Providing training',
       'Team collaboration'
@@ -28,14 +29,14 @@ const aboutMe = {
       'HTML', 
       'CSS', 
       'Sass', 
-      'React'
-    ],
-  learning: 
-    [      
+      'React',
       'node.js', 
       'express',
       'nestjs',
-      'java'
+    ],
+  learning: 
+    [       
+      'nextjs'
     ],
   languages: 
     [
