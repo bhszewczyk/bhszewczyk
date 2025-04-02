@@ -1,6 +1,6 @@
 ## Hello Everyone!
 
-I am a junior frontend developer. Every day I challenge myself to learn something new. Always with the company of my two corgis.
+I am a software developer working full time (fully remote) on open source auotmation application. Every day I challenge myself to learn something new. Always with the company of my two corgis.
 
 <p align="center" width="100%"><img src="https://media.tenor.co/images/6c6ca2677c3770107bd207f2c1956144/raw" alt="Excited corgi" align="center" width="20%"/></p>
 
@@ -11,44 +11,55 @@ I am a junior frontend developer. Every day I challenge myself to learn somethin
 </p>-->
 
 ```yaml
-const aboutMe = {
+interface AboutMe {
+  firstName: string,
+  lastName: string,
+  fullyRemote: boolean,
+  skills: string[],
+  programming: string[],
+  learning: string[],
+  language: string[],
+  hobbies: string[]
+};
+
+const aboutMe: AboutMe = {
   firstName: 'Barbara',
   lastName: 'Darowska',
+  fullyRemote: true,
   skills: 
     [
       'Web development',
-      'Automation', 
-      'Process improvement', 
-      'Providing training',
+      'Optimization', 
+      'Communication', 
       'Team collaboration'
     ],
   programing: 
     [ 
-      'JavaScript',
       'TypeScript',
-      'HTML', 
-      'CSS', 
-      'Sass', 
       'React',
-      'node.js', 
-      'express',
-      'nestjs',
+      'Node.js', 
+      'Nest.js',
+      'Redux',
+      'React router',
+      'PostgreSQL'
     ],
   learning: 
     [       
-      'nextjs'
+      'Docer',
+      'Godot'
     ],
   languages: 
     [
-      'English',
+      'English (fluent)',
       'Polish (native)'
     ],
   hobbies: 
     [
       'Crocheting', 
       'Knitting', 
-      'Gaming', 
-      'Books'
+      'Gaming (boardgames, videogames)',
+      'Film music, progressive music', 
+      'Reading'
     ],
 };
 
