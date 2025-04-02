@@ -45,8 +45,8 @@ const aboutMe: AboutMe = {
     ],
   learning: 
     [       
-      'Docer',
-      'Godot'
+      'Docker',
+      'Godot',
     ],
   languages: 
     [
